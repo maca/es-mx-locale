@@ -5,11 +5,12 @@ es-MX:
       format:
         delimiter: ""
     currency:
-      format: "%u%n"
-      delimiter: ","
-      unit: "$"
-      precision: 2
-      separator: "."
+      format:
+        format: "%u%n"
+        delimiter: ","
+        unit: "$"
+        precision: 2
+        separator: "."
     format:
       delimiter: ","
       precision: 3
