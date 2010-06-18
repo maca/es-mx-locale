@@ -1,0 +1,10 @@
+= es-mx-locale
+
+Localización para Rails en es-MX empacada como una gema.
+
+== Instalación y uso
+
+    [sudo] gem install es-mx-locale
+    
+    # config/environment.rb
+    config.gem "es-mx-locale"
