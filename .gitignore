@@ -1,6 +1,7 @@
 ## MAC OS
 .DS_Store
 
+
 ## TEXTMATE
 *.tmproj
 tmtags
@@ -17,5 +18,6 @@ tmtags
 coverage
 rdoc
 pkg
+*.gemspec
 
 ## PROJECT::SPECIFIC
