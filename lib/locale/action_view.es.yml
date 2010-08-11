@@ -1,4 +1,9 @@
 es:  
+  yes: si
+  no: no
+  add: añadir
+  remove: eliminar
+
   datetime:
     distance_in_words:
       half_a_minute: "medio minuto"

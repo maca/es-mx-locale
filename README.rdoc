@@ -2,6 +2,11 @@
 
 Localización para Rails en es-MX empacada como una gema.
 
+== Requerimientos
+
+rails >= 3.5.8
+no ha sido probado con Rails 3
+
 == Instalación y uso
 
     [sudo] gem install es-mx-locale
