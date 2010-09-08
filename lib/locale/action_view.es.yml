@@ -2,7 +2,7 @@ es:
   yes: si
   no: no
   add: añadir
-  remove: eliminar
+  remove: remover
 
   datetime:
     distance_in_words:
